@@ -1,0 +1,34 @@
+[
+    {
+        "FirstName": "Youssef",
+        "LastName": "Karam",
+        "EmployeeID": 301,
+        "Designation": "Team Leader",
+        "KnownLanguages": [
+            {
+                "LanguageName": "C",
+                "ScoreOutof100": 20
+            }
+        ]
+    },
+    {
+        "FirstName": "Osama",
+        "LastName": "Khaled",
+        "EmployeeID": 302,
+        "Designation": "Developer",
+        "KnownLanguages": [
+            {
+                "LanguageName": "PHP",
+                "ScoreOutof100": 33
+            },
+            {
+                "LanguageName": "Java",
+                "ScoreOutof100": 10
+            },
+            {
+                "LanguageName": "C++",
+                "ScoreOutof100": 94
+            }
+        ]
+    }
+]
